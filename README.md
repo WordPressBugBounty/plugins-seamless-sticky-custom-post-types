@@ -1,0 +1,1 @@
+# plugins-seamless-sticky-custom-post-types
